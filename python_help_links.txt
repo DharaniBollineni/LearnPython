@@ -1,0 +1,23 @@
+https://www.reddit.com/r/learnpython/comments/81fr9i/beginner_friendly_programming_exercises/
+
+
+Strings
+https://developers.google.com/edu/python/strings
+
+
+
+
+
+
+
+Python Programming Examples
+-------------------------------
+http://www.sanfoundry.com/python-problems-solutions/                                ---> very good must practice
+
+
+
+
+
+instalation:
+-----------
+https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC

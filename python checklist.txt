@@ -1,0 +1,3 @@
+extand and append
+with oo, def etc check
+https://stackoverflow.com/questions/252703/difference-between-append-vs-extend-list-methods-in-python/28119966#28119966
